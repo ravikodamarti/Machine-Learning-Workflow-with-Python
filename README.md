@@ -206,8 +206,11 @@ Second, install the version of Anaconda which you downloaded, following the inst
 Congratulations, you have installed Jupyter Notebook! To run the notebook, run the following command at the Terminal (Mac/Linux) or Command Prompt (Windows):
 <a id="15"></a> <br>
 ## 5-5 Loading Packages
+
 In this kernel we are using the following packages:
+
  <img src="http://s8.picofile.com/file/8338227868/packages.png">
+ 
  Now we import all of them 
  
 <a id="16"></a> <br>
