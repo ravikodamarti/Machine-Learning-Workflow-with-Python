@@ -1,12 +1,10 @@
 # 1- Introduction
 This is a **comprehensive ML techniques with python** , that I have spent for more than two months to complete it.
 
-it is clear that everyone in this community is familiar with IRIS dataset but if you need to review your information about the dataset please visit this [link](https://archive.ics.uci.edu/ml/datasets/iris).
-
-I have tried to help **beginners**  in Kaggle how to face machine learning problems. and I think it is a great opportunity for who want to learn machine learning workflow with python completely.
+I think it is a great opportunity for who want to learn machine learning workflow with python completely.
 I have covered most of the methods that are implemented for iris until **2018**, you can start to learn and review your knowledge about ML with a simple dataset and try to learn and memorize the workflow for your journey in Data science world.
 
-I am open to getting your feedback for improving this **kernel**
+I am open to getting your feedback for improving this
 <a id="2"></a> <br>
 # 2- Machine Learning Workflow
 Field of 	study 	that 	gives	computers	the	ability 	to	learn 	without 	being
