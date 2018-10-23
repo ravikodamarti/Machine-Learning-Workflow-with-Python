@@ -1,6 +1,4 @@
-
- <a id="1"></a> <br>
-## 1- Introduction
+# 1- Introduction
 This is a **comprehensive ML techniques with python** , that I have spent for more than two months to complete it.
 
 it is clear that everyone in this community is familiar with IRIS dataset but if you need to review your information about the dataset please visit this [link](https://archive.ics.uci.edu/ml/datasets/iris).
@@ -10,7 +8,7 @@ I have covered most of the methods that are implemented for iris until **2018**,
 
 I am open to getting your feedback for improving this **kernel**
 <a id="2"></a> <br>
-## 2- Machine Learning Workflow
+# 2- Machine Learning Workflow
 Field of 	study 	that 	gives	computers	the	ability 	to	learn 	without 	being
 explicitly 	programmed.
 
@@ -35,7 +33,7 @@ most of these books share the following steps (checklist):
 ## 2-1 Real world Application Vs Competitions
 <img src="http://s9.picofile.com/file/8339956300/reallife.png" height="600" width="500" />
 <a id="3"></a> <br>
-## 3- Problem Definition
+# 3- Problem Definition
 I think one of the important things when you start a new machine learning project is Defining your problem. that means you should understand business problem.( **Problem Formalization**)
 
 Problem Definition has four steps that have illustrated in the picture below:
@@ -96,7 +94,7 @@ The variables are :
 > You must answer the following question:
 How does your company expact to use and benfit from your model.
 <a id="7"></a> <br>
-## 4- Inputs & Outputs
+# 4- Inputs & Outputs
 <a id="8"></a> <br>
 ### 4-1 Inputs
 **Iris** is a very popular **classification** and **clustering** problem in machine learning and it is such as "Hello world" program when you start learning a new programming language. then I decided to apply Iris on  20 machine learning method on it.
@@ -115,7 +113,7 @@ the outputs can be the number of clusters or predict for new input.
 **versicolour**: Iris versicolour, true or false, used as target.
 **virginica**: Iris virginica, true or false, used as a target.
 <a id="10"></a> <br>
-## 5-Installation
+# 5-Installation
 #### Windows:
 * Anaconda (from https://www.continuum.io) is a free Python distribution for SciPy stack. It is also available for Linux and Mac.
 * Canopy (https://www.enthought.com/products/canopy/) is available as free as well as commercial distribution with full SciPy stack for Windows, Linux and Mac.
@@ -145,7 +143,7 @@ In this kernel we are using the following packages:
  Now we import all of them 
  
 <a id="16"></a> <br>
-## 6- Exploratory Data Analysis(EDA)
+# 6- Exploratory Data Analysis(EDA)
  In this section, you'll learn how to use graphical and numerical techniques to begin uncovering the structure of your data. 
  
 * Which variables suggest interesting relationships?
