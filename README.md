@@ -59,7 +59,7 @@ The Iris data set has a number of interesting features:
 
 3. There is some redundancy in the four input variables, so it is possible to achieve a good solution with only three of them, or even (with difficulty) from two, but the precise choice of best variables is not obvious.
 
-**Why am I  using iris dataset:**
+**Why am I  using this dataset:**
 
 1- This is a good project because it is so well understood.
 
