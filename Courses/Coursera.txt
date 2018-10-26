@@ -1,1 +1,10 @@
 this is a courses list that can help you learn machine learning from Coursera:
+
+
+
+"Deep Learning" by Andrew Ng
+
+
+Feel free to share free online courses that are not mentioned here!
+
+If you like more AI and Data Science check out https://aitube.io for free videos, courses, books, papers and more!
