@@ -1,1 +1,7 @@
 this is a courses list that can help you learn machine learning from Udacity
+
+
+1- "Intro to Machine Learning" on Udacity
+2- "Machine Learning by Georgia Tech" on Udacity (Georgia Tech)
+3- "Data Wrangling with MongoDB" on Udacity
+Feel free to share free online courses that are not mentioned here!
