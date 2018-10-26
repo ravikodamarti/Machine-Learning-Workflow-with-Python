@@ -1,2 +1,12 @@
 this is a courses list that can help you learn machine learning from Udemy
 
+1- Machine Learning A-Z™: Hands-On Python & R In Data Science
+2- python-for-data-science-and-machine-learning-bootcamp
+3- data-science-and-machine-learning-with-python-hands-on
+4- data-science-and-machine-learning-bootcamp-with-r
+ 
+
+
+
+Feel free to share free online courses that are not mentioned here!
+
