@@ -170,6 +170,21 @@ With interactive visualization, you can take the concept a step further by using
 
  In this section I show you  **11 plots** with **matplotlib** and **seaborn** that is listed in the blew picture:
  <img src="http://s8.picofile.com/file/8338475500/visualization.jpg" />
+# Help
+
+I hope you have enjoyed reading my python notebook.
+
+If you have any problem to run notebook please open an issue here in github.
+
+for most of the my notebook you need **dataset** as input.
+
+To use the **correct data**, please **download** the dat set from  the **Kaggle** site and put it in your notebook folder.
+
+**Mj Bhamnai**
+
+mohamadjavad.bahmani@gmail.com
+
+ **Have Fun!**
  
 you can follow me on:
 > ###### [ GitHub](https://github.com/mjbahmani)
